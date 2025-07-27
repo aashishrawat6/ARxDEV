@@ -1,3 +1,4 @@
+import React from 'react';
 import { Icon } from "@iconify/react/dist/iconify.js";
 import gsap from "gsap";
 import { Observer } from "gsap/all";

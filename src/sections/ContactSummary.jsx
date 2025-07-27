@@ -1,3 +1,4 @@
+import React from 'react' ;
 import { useRef } from "react";
 import Marquee from "../components/Marquee";
 import { useGSAP } from "@gsap/react";
