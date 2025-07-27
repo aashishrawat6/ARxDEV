@@ -1,4 +1,4 @@
-import React from 'react' 
+import React from "react";
 import { Canvas } from "@react-three/fiber";
 import { Planet } from "../components/Planet";
 import { Environment, Float, Lightformer } from "@react-three/drei";
